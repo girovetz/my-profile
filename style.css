@@ -1,0 +1,120 @@
+html {
+	max-height: 1500px;
+	max-width: 1500px;
+}
+
+body {
+
+	background: #FFF1E6 ;
+	width: 1700px;
+	
+	height: 1080px;
+}
+
+
+
+h1 {
+	color:red;	
+	font-size: 70px;
+	font-family: 'Roboto Condensed', sans-serif;
+	position: relative;
+	left: 400px ;
+	top: 50px;
+	width: 1500px;
+}
+
+div.guillaume{
+	height: 0px;
+	float: right;
+	position:relative ;
+	right : 100px;
+	
+}
+
+div.guillaume img{
+	height: 275px;
+	border-radius: 20px;
+	position: relative;
+	top: -140px;
+	left: 150px;
+	float: right;
+}	
+
+
+div.texte {
+	height :0px;
+	position: relative;
+	top: 0px;
+	width: 1920px;
+}
+
+div.texte  p{
+	font-family: 'Poppins', sans-serif;
+	color  : blue ;
+	position : relative;
+	left :100px;
+	top : -825px;
+	font-size :25px;
+	width: 1920px;
+	
+	
+}
+
+div.texte h2{
+	font-weight :bold;
+	font-size: 32px;
+	position : relative;
+	top:-825px;
+	left:50px; 
+	font-family: 'Merriweather', serif;
+	width: 1920px;
+	
+}
+
+
+
+div.rectangle {
+	width :2050px;
+	height : 825px;
+	margin-left:10px;
+	background : none;
+	border :0px solid black;
+	border-radius : 20px;
+	text-align : center;
+	position: relative;
+	margin-top: 200px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+	
+}
+
+div.linkedin{
+	height: 50px;
+	text-align:center;
+
+}
+
+div.linkedin img{
+	height: 50px;
+	
+	top:-700px;
+	
+}
+
+div.facebook{
+	text-align: center;
+}
+div.facebook img {
+	height :50px;
+	position: relative;
+	top: -51px;
+	left: 60px;
+	
+}
+
+
+
+a{
+	height: 0px;
+	
+}
+
